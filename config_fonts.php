@@ -122,24 +122,6 @@ $this->fontdata = array(
 		'I' => "DejaVuSansMono-Oblique.ttf",
 		'BI' => "DejaVuSansMono-BoldOblique.ttf",
 		),
-	"freesans" => array(
-		'R' => "FreeSans.ttf",
-		'B' => "FreeSansBold.ttf",
-		'I' => "FreeSansOblique.ttf",
-		'BI' => "FreeSansBoldOblique.ttf",
-		),
-	"freeserif" => array(
-		'R' => "FreeSerif.ttf",
-		'B' => "FreeSerifBold.ttf",
-		'I' => "FreeSerifItalic.ttf",
-		'BI' => "FreeSerifBoldItalic.ttf",
-		),
-	"freemono" => array(
-		'R' => "FreeMono.ttf",
-		'B' => "FreeMonoBold.ttf",
-		'I' => "FreeMonoOblique.ttf",
-		'BI' => "FreeMonoBoldOblique.ttf",
-		),
 	"ubuntu" => array(
 		'R' => "Ubuntu-R.ttf",
 		'B' => "Ubuntu-B.ttf",
@@ -299,9 +281,7 @@ $this->BMPonly = array(
 	"dejavusans",
 	"dejavuserifcondensed",
 	"dejavuserif",
-	"dejavusansmono",
-	"freesans",
-	"freeserif",
+	"dejavusansmono"
 	);
 
 // These next 3 arrays do two things:
